@@ -12,3 +12,6 @@ Functions available
 | load ()                    | float       |    value representing the load factor                  |
 | getCount ()                | integer     |    value of number of items in the hashmap             |
 | printMap ()                | void        |    print hashmap items                                 |
+
+
+File names starting with "_test_" are essentially test cases.
